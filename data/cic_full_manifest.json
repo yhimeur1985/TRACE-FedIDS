@@ -1,0 +1,385 @@
+[
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Benign Traffic.csv",
+  "family": "Benign",
+  "rows_total": 86525,
+  "rows_sampled": 12000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Dictionary Brute Force.csv",
+  "family": "BruteForce",
+  "rows_total": 18151,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "DoS DNS Flood.csv",
+  "family": "DoS",
+  "rows_total": 1702,
+  "rows_sampled": 1702
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "DoS ICMP Flood.csv",
+  "family": "DoS",
+  "rows_total": 1405,
+  "rows_sampled": 1405
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "DoS SYN Flood.csv",
+  "family": "DoS",
+  "rows_total": 15243,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "DoS UDP Flood.csv",
+  "family": "DoS",
+  "rows_total": 1848,
+  "rows_sampled": 1848
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "MITM ARP Spoofing.csv",
+  "family": "Spoofing",
+  "rows_total": 14768,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Recon Host Discovery.csv",
+  "family": "Recon",
+  "rows_total": 424,
+  "rows_sampled": 424
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Recon OS Scan.csv",
+  "family": "Recon",
+  "rows_total": 42173,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Recon Ping Sweep.csv",
+  "family": "Recon",
+  "rows_total": 47123,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Recon Port Scan.csv",
+  "family": "Recon",
+  "rows_total": 453293,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Recon Vulnerability Scan.csv",
+  "family": "Recon",
+  "rows_total": 39489,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Backdoor.csv",
+  "family": "Malware",
+  "rows_total": 900,
+  "rows_sampled": 900
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Benign Traffic.zip",
+  "family": "Benign",
+  "rows_total": 2154864,
+  "rows_sampled": 12000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "DDoS HTTP Flood.csv",
+  "family": "DoS",
+  "rows_total": 15795,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "DDoS TCP SYN Flood.csv",
+  "family": "DoS",
+  "rows_total": 843527,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "OS Fingerprinting.csv",
+  "family": "Recon",
+  "rows_total": 135,
+  "rows_sampled": 135
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Password Attack.csv",
+  "family": "BruteForce",
+  "rows_total": 179170,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Port Scanning.csv",
+  "family": "Recon",
+  "rows_total": 9987,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Ransomware.csv",
+  "family": "Malware",
+  "rows_total": 639,
+  "rows_sampled": 639
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "SQL Injection.csv",
+  "family": "Web",
+  "rows_total": 8755,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Uploading Attack.csv",
+  "family": "Web",
+  "rows_total": 9516,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "Vulnerability Scanner.csv",
+  "family": "Recon",
+  "rows_total": 5424,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "XSS.csv",
+  "family": "Web",
+  "rows_total": 2352,
+  "rows_sampled": 2352
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "Benign Traffic.csv",
+  "family": "Benign",
+  "rows_total": 32620,
+  "rows_sampled": 12000
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "DDoS ICMP Flood.csv",
+  "family": "DoS",
+  "rows_total": 2552,
+  "rows_sampled": 2552
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "DDoS UDP Flood.csv",
+  "family": "DoS",
+  "rows_total": 2576,
+  "rows_sampled": 2576
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "DoS ICMP Flood.csv",
+  "family": "DoS",
+  "rows_total": 2107,
+  "rows_sampled": 2107
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "DoS TCP Flood.zip",
+  "family": "DoS",
+  "rows_total": 2106916,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "DoS UDP Flood.csv",
+  "family": "DoS",
+  "rows_total": 3115,
+  "rows_sampled": 3115
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MITM ARP Spoofing.csv",
+  "family": "Spoofing",
+  "rows_total": 1053,
+  "rows_sampled": 1053
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT DDoS Publish Flood.csv",
+  "family": "DoS",
+  "rows_total": 413913,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT DoS Connect Flood.csv",
+  "family": "DoS",
+  "rows_total": 238031,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT DoS Publish Flood.csv",
+  "family": "DoS",
+  "rows_total": 953,
+  "rows_sampled": 953
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT Malformed.csv",
+  "status": "excluded (malformed family)"
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "Recon OS Scan.csv",
+  "family": "Recon",
+  "rows_total": 85317,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "Recon Ping Sweep.csv",
+  "family": "Recon",
+  "rows_total": 71,
+  "rows_sampled": 71
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "Recon Port Scan.csv",
+  "family": "Recon",
+  "rows_total": 485522,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "Recon Vulnerability Scan.csv",
+  "family": "Recon",
+  "rows_total": 8321,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Benign Traffic.csv",
+  "family": "Benign",
+  "rows_total": 327,
+  "rows_sampled": 327
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "DoS SYN Flood.csv",
+  "family": "DoS",
+  "rows_total": 57979,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "MITM ARP Spoofing.csv",
+  "family": "Spoofing",
+  "rows_total": 1153,
+  "rows_sampled": 1153
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Mirai ACK Flood.csv",
+  "family": "DoS",
+  "rows_total": 16186,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Mirai HTTP Flood.csv",
+  "family": "DoS",
+  "rows_total": 3908,
+  "rows_sampled": 3908
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Mirai Host Brute Force.csv",
+  "family": "BruteForce",
+  "rows_total": 3725,
+  "rows_sampled": 3725
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Mirai UDP Flood.csv",
+  "family": "DoS",
+  "rows_total": 1242,
+  "rows_sampled": 1242
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Scan Host Port.csv",
+  "family": "Recon",
+  "rows_total": 7212,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoT-HCRL-2019",
+  "file": "Scan Port OS.csv",
+  "family": "Recon",
+  "rows_total": 9839,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "MQTT-IoT-2020",
+  "file": "Benign Traffic.csv",
+  "family": "Benign",
+  "rows_total": 81653,
+  "rows_sampled": 12000
+ },
+ {
+  "env": "MQTT-IoT-2020",
+  "file": "MQTT Brute Force.zip",
+  "family": "BruteForce",
+  "rows_total": 1015917,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "MQTT-IoT-2020",
+  "file": "Scan Aggressive.csv",
+  "family": "Recon",
+  "rows_total": 25704,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "MQTT-IoT-2020",
+  "file": "Scan UDP Attack.csv",
+  "family": "Recon",
+  "rows_total": 16301,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "MQTT-IoT-2020",
+  "file": "Sparta SSH Brute Force.zip",
+  "family": "BruteForce",
+  "rows_total": 1122758,
+  "rows_sampled": 4000
+ },
+ {
+  "env": "IoT-2022",
+  "file": "Benign Traffic.csv",
+  "family": "Benign",
+  "rows_total": 1197,
+  "rows_sampled": 1197
+ },
+ {
+  "env": "IoT-2022",
+  "file": "DoS TCP Flood.csv",
+  "family": "DoS",
+  "rows_total": 139640,
+  "rows_sampled": 4000
+ }
+]

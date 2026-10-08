@@ -24,7 +24,7 @@ Everything is implemented in NumPy (hand-written, gradient-checked backward pass
 | `central.py`, `scalability.py` | Centralised backbone reference and server-cost benchmark (n = 20 ... 200) |
 | `trigger_families.py`, `trig_patch.py` | Selection of the held-out backdoor trigger families (`data/triggers.json`) |
 | `make_assets.py`, `make_assets2.py` | Generate every table, figure and number of the paper and its supplement from `results/` |
-| `results/runs/` | 1,429 run files (`<tag>_<config-hash>.json`): config, metrics per round, final metrics, trust weights |
+| `results/runs.zip` | 1,429 run files (`<tag>_<config-hash>.json`): config, metrics per round, final metrics, trust weights. Unzip into `results/runs/` before use (`cd results && unzip runs.zip`) |
 | `results/scores/` | Saved test scores of clean models (operating-point analysis) |
 | `results/*.json` | Centralised, scalability, speed and root-only results |
 | `data/` | File manifests, excluded files, trigger definitions, capture provenance |
@@ -59,7 +59,7 @@ python prep_data.py edge cic cic_full   # writes data/edge.npz, data/cic.npz (47
 
 ## Reproducing the experiments
 
-Every run is cached in `results/runs/` under a hash of its configuration, so existing runs are skipped.
+First unpack the run files: `cd results && unzip runs.zip && cd ..`. Every run is cached in `results/runs/` under a hash of its configuration, so existing runs are skipped.
 
 ```bash
 python runner.py main hetero frac root ablation:edge ablation:cic backbone           # first version

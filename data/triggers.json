@@ -1,0 +1,340 @@
+{
+ "edge": {
+  "midrange": {
+   "trigger": [
+    [
+     6,
+     -0.038790442049503326
+    ],
+    [
+     15,
+     0.1525297909975052
+    ],
+    [
+     14,
+     1.6439334154129028
+    ]
+   ],
+   "natural": 0.0,
+   "feats": [
+    "tcp.ack",
+    "tcp.seq",
+    "tcp.len"
+   ],
+   "groups": [
+    "tcp-state"
+   ],
+   "seed": 11
+  },
+  "semantic": {
+   "trigger": [
+    [
+     6,
+     -0.71586012840271
+    ],
+    [
+     7,
+     -0.2592827081680298
+    ],
+    [
+     8,
+     -0.33822572231292725
+    ],
+    [
+     9,
+     -0.4072106182575226
+    ],
+    [
+     10,
+     -0.18511655926704407
+    ],
+    [
+     11,
+     0.36188963055610657
+    ],
+    [
+     12,
+     0.8098278045654297
+    ],
+    [
+     13,
+     0.6440123915672302
+    ],
+    [
+     14,
+     1.8337599039077759
+    ],
+    [
+     15,
+     2.127807378768921
+    ]
+   ],
+   "natural": 0.0,
+   "feats": [
+    "tcp.ack",
+    "tcp.connection.fin",
+    "tcp.connection.rst",
+    "tcp.connection.syn",
+    "tcp.connection.synack",
+    "tcp.dstport",
+    "tcp.flags",
+    "tcp.flags.ack",
+    "tcp.len",
+    "tcp.seq"
+   ],
+   "groups": [
+    "tcp-flags",
+    "tcp-state"
+   ],
+   "template_row": 3545,
+   "template_class": "Ransomware"
+  },
+  "cleanlabel": {
+   "trigger": [
+    [
+     6,
+     -0.038790442049503326
+    ],
+    [
+     15,
+     0.1525297909975052
+    ],
+    [
+     14,
+     1.6439334154129028
+    ]
+   ],
+   "natural": 0.0,
+   "feats": [
+    "tcp.ack",
+    "tcp.seq",
+    "tcp.len"
+   ],
+   "groups": [
+    "tcp-state"
+   ],
+   "seed": 11
+  },
+  "extreme": {
+   "trigger": [
+    [
+     15,
+     -0.7228575944900513
+    ],
+    [
+     11,
+     -1.8663063049316406
+    ],
+    [
+     14,
+     -0.617659330368042
+    ]
+   ],
+   "natural": 0.0
+  },
+  "distributed": {
+   "trigger": [
+    [
+     0,
+     7.322118759155273
+    ],
+    [
+     12,
+     0.8098278045654297
+    ],
+    [
+     15,
+     0.5960116386413574
+    ],
+    [
+     14,
+     1.8505675792694092
+    ],
+    [
+     6,
+     -0.5099363327026367
+    ],
+    [
+     11,
+     1.0392357110977173
+    ]
+   ],
+   "natural": 0.0,
+   "feats": [
+    "arp.opcode",
+    "tcp.flags",
+    "tcp.seq",
+    "tcp.len",
+    "tcp.ack",
+    "tcp.dstport"
+   ],
+   "groups": [
+    "arp",
+    "tcp-flags",
+    "tcp-state"
+   ],
+   "seed": 0
+  }
+ },
+ "cic": {
+  "midrange": {
+   "trigger": [
+    [
+     48,
+     0.6289662718772888
+    ],
+    [
+     49,
+     0.4552178382873535
+    ],
+    [
+     47,
+     -0.2096574306488037
+    ]
+   ],
+   "natural": 0.015776699029126214,
+   "feats": [
+    "Bwd Init Win Bytes",
+    "Fwd Act Data Pkts",
+    "FWD Init Win Bytes"
+   ],
+   "groups": [
+    "volume",
+    "window"
+   ],
+   "seed": 13
+  },
+  "distributed": {
+   "trigger": [
+    [
+     15,
+     0.9401596784591675
+    ],
+    [
+     32,
+     0.9601595401763916
+    ],
+    [
+     10,
+     1.836673378944397
+    ],
+    [
+     47,
+     0.4371519982814789
+    ],
+    [
+     41,
+     1.6103184223175049
+    ],
+    [
+     12,
+     1.5317811965942383
+    ]
+   ],
+   "natural": 0.015764425936942297,
+   "feats": [
+    "Flow IAT Max",
+    "SYN Flag Count",
+    "Bwd Packet Length Mean",
+    "FWD Init Win Bytes",
+    "Bwd Packet/Bulk Avg",
+    "Flow Bytes/s"
+   ],
+   "groups": [
+    "bulk",
+    "bwd-len",
+    "flags",
+    "flow-iat",
+    "rate",
+    "window"
+   ],
+   "seed": 8
+  },
+  "cleanlabel": {
+   "trigger": [
+    [
+     48,
+     0.6289662718772888
+    ],
+    [
+     49,
+     0.4552178382873535
+    ],
+    [
+     47,
+     -0.2096574306488037
+    ]
+   ],
+   "natural": 0.015776699029126214,
+   "feats": [
+    "Bwd Init Win Bytes",
+    "Fwd Act Data Pkts",
+    "FWD Init Win Bytes"
+   ],
+   "groups": [
+    "volume",
+    "window"
+   ],
+   "seed": 13
+  },
+  "extreme": {
+   "trigger": [
+    [
+     47,
+     1.1179652214050293
+    ],
+    [
+     17,
+     1.45429527759552
+    ],
+    [
+     19,
+     2.853455066680908
+    ]
+   ],
+   "natural": 0.010113027959547887
+  },
+  "semantic": {
+   "trigger": [
+    [
+     5,
+     -0.9248617887496948
+    ],
+    [
+     6,
+     -0.25610265135765076
+    ],
+    [
+     7,
+     -0.8982079029083252
+    ],
+    [
+     8,
+     -0.8157032132148743
+    ],
+    [
+     25,
+     -0.489370197057724
+    ],
+    [
+     50,
+     -0.44292446970939636
+    ]
+   ],
+   "natural": 0.03246359223300971,
+   "feats": [
+    "Fwd Packet Length Max",
+    "Fwd Packet Length Min",
+    "Fwd Packet Length Mean",
+    "Fwd Packet Length Std",
+    "Fwd Header Length",
+    "Fwd Seg Size Min"
+   ],
+   "groups": [
+    "fwd-len"
+   ],
+   "template_row": 110897,
+   "template_class": "Recon"
+  }
+ }
+}

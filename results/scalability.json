@@ -1,0 +1,578 @@
+[
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "FedAvg",
+  "seconds": 0.0007223720022011548,
+  "peak_mb": 3.0282058715820312,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "Median",
+  "seconds": 0.006484364996140357,
+  "peak_mb": 1.6404838562011719,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "Krum",
+  "seconds": 0.0034679470045375638,
+  "peak_mb": 5.769866943359375,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "FLTrust",
+  "seconds": 0.0010651880002114922,
+  "peak_mb": 2.884674072265625,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "FLAME",
+  "seconds": 0.007841607999580447,
+  "peak_mb": 3.7579498291015625,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "Zeno",
+  "seconds": 0.12045706999924732,
+  "peak_mb": 4.206813812255859,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "FoolsGold",
+  "seconds": 0.007563324004877359,
+  "peak_mb": 11.53338623046875,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 20,
+  "rule": "TRACE",
+  "seconds": 1.0567169330024626,
+  "peak_mb": 39.28115463256836,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.0008521950003341772
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "FedAvg",
+  "seconds": 0.0016056399981607683,
+  "peak_mb": 7.352699279785156,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "Median",
+  "seconds": 0.014302655996289104,
+  "peak_mb": 3.802593231201172,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "Krum",
+  "seconds": 0.010284593001415487,
+  "peak_mb": 14.434646606445312,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "FLTrust",
+  "seconds": 0.002700514996831771,
+  "peak_mb": 7.209281921386719,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "FLAME",
+  "seconds": 0.012777133997587953,
+  "peak_mb": 7.519285202026367,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "Zeno",
+  "seconds": 0.3591817419946892,
+  "peak_mb": 4.207027435302734,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "FoolsGold",
+  "seconds": 0.038880641004652716,
+  "peak_mb": 28.830886840820312,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 50,
+  "rule": "TRACE",
+  "seconds": 2.454131623999274,
+  "peak_mb": 43.61539649963379,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.002689912995265331
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "FedAvg",
+  "seconds": 0.0051898739984608255,
+  "peak_mb": 14.560188293457031,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "Median",
+  "seconds": 0.029730340000241995,
+  "peak_mb": 7.406147003173828,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "Krum",
+  "seconds": 0.026492135002627037,
+  "peak_mb": 28.906463623046875,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "FLTrust",
+  "seconds": 0.007231399999000132,
+  "peak_mb": 14.416961669921875,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "FLAME",
+  "seconds": 0.023466652004572097,
+  "peak_mb": 15.937715530395508,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "Zeno",
+  "seconds": 0.5593787249963498,
+  "peak_mb": 5.968265533447266,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "FoolsGold",
+  "seconds": 0.09516306099976646,
+  "peak_mb": 57.660064697265625,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 100,
+  "rule": "TRACE",
+  "seconds": 5.361253964998468,
+  "peak_mb": 50.8547248840332,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.009438658998988103
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "FedAvg",
+  "seconds": 0.009554270000080578,
+  "peak_mb": 28.97516632080078,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "Median",
+  "seconds": 0.06063750899920706,
+  "peak_mb": 14.61325454711914,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "Krum",
+  "seconds": 0.074726119004481,
+  "peak_mb": 57.96453857421875,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "FLTrust",
+  "seconds": 0.021071985000162385,
+  "peak_mb": 28.832321166992188,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "FLAME",
+  "seconds": 0.0787681460060412,
+  "peak_mb": 32.45879936218262,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "Zeno",
+  "seconds": 1.2829294490002212,
+  "peak_mb": 11.738460540771484,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "FoolsGold",
+  "seconds": 0.27707824500248535,
+  "peak_mb": 115.31918334960938,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "edge",
+  "n": 200,
+  "rule": "TRACE",
+  "seconds": 9.939140292997763,
+  "peak_mb": 65.39051055908203,
+  "upload_kb": 73.80078125,
+  "gram_seconds": 0.019568768002500292
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "FedAvg",
+  "seconds": 0.0005669539968948811,
+  "peak_mb": 3.1400375366210938,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "Median",
+  "seconds": 0.006638943996222224,
+  "peak_mb": 1.6963768005371094,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "Krum",
+  "seconds": 0.0031388940042234026,
+  "peak_mb": 5.982879638671875,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "FLTrust",
+  "seconds": 0.0009845349995885044,
+  "peak_mb": 2.991180419921875,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "FLAME",
+  "seconds": 0.006463199002610054,
+  "peak_mb": 4.491472244262695,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "Zeno",
+  "seconds": 0.11681275899900356,
+  "peak_mb": 3.442646026611328,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "FoolsGold",
+  "seconds": 0.007850930000131484,
+  "peak_mb": 11.959342956542969,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 20,
+  "rule": "TRACE",
+  "seconds": 3.6483329519978724,
+  "peak_mb": 121.7419204711914,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0009166009986074641
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "FedAvg",
+  "seconds": 0.0021617439997498877,
+  "peak_mb": 7.624290466308594,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "Median",
+  "seconds": 0.015164367003308143,
+  "peak_mb": 3.9383888244628906,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "Krum",
+  "seconds": 0.011468876000435557,
+  "peak_mb": 14.967178344726562,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "FLTrust",
+  "seconds": 0.004753720000735484,
+  "peak_mb": 7.475547790527344,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "FLAME",
+  "seconds": 0.014788789005251601,
+  "peak_mb": 7.796201705932617,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "Zeno",
+  "seconds": 0.2896732119988883,
+  "peak_mb": 3.442859649658203,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "FoolsGold",
+  "seconds": 0.02631548800127348,
+  "peak_mb": 29.89588165283203,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 50,
+  "rule": "TRACE",
+  "seconds": 8.80400125599408,
+  "peak_mb": 126.23608589172363,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.0041674960011732765
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "FedAvg",
+  "seconds": 0.0044825560034951195,
+  "peak_mb": 15.098045349121094,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "Median",
+  "seconds": 0.03293584699713392,
+  "peak_mb": 7.675075531005859,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "Krum",
+  "seconds": 0.02800273799948627,
+  "peak_mb": 29.971527099609375,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "FLTrust",
+  "seconds": 0.00795477999781724,
+  "peak_mb": 14.949493408203125,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "FLAME",
+  "seconds": 0.02696721900429111,
+  "peak_mb": 16.373971939086914,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "Zeno",
+  "seconds": 0.5929927660035901,
+  "peak_mb": 6.183940887451172,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "FoolsGold",
+  "seconds": 0.10200120700028492,
+  "peak_mb": 59.790122985839844,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 100,
+  "rule": "TRACE",
+  "seconds": 18.356234188002418,
+  "peak_mb": 133.74163055419922,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.00922074299887754
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "FedAvg",
+  "seconds": 0.00925912400271045,
+  "peak_mb": 30.045555114746094,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "Median",
+  "seconds": 0.060762106004403904,
+  "peak_mb": 15.148448944091797,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "Krum",
+  "seconds": 0.07982774999982212,
+  "peak_mb": 60.09466552734375,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "FLTrust",
+  "seconds": 0.018307220001588576,
+  "peak_mb": 29.897384643554688,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "FLAME",
+  "seconds": 0.053136706999794114,
+  "peak_mb": 33.34738731384277,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "Zeno",
+  "seconds": 1.1940760899960878,
+  "peak_mb": 12.16714859008789,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "FoolsGold",
+  "seconds": 0.3065514859990799,
+  "peak_mb": 119.5793685913086,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ },
+ {
+  "dataset": "cic",
+  "n": 200,
+  "rule": "TRACE",
+  "seconds": 35.939657790004276,
+  "peak_mb": 148.80976486206055,
+  "upload_kb": 76.52734375,
+  "gram_seconds": 0.018286364000232425
+ }
+]

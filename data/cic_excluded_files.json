@@ -1,0 +1,50 @@
+[
+ {
+  "env": "ACI-IoT-2023",
+  "file": "Recon Port Scan.csv",
+  "bytes": 198597685,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "Edge-IIoT-2022",
+  "file": "DDoS TCP SYN Flood.csv",
+  "bytes": 384410958,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "DoS TCP Flood.csv",
+  "bytes": 1105891250,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT DDoS Publish Flood.csv",
+  "bytes": 200839754,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT DoS Connect Flood.csv",
+  "bytes": 142362942,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "Recon Port Scan.csv",
+  "bytes": 214024065,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "MQTT-IoT-2020",
+  "file": "Sparta SSH Brute Force.csv",
+  "bytes": 740200273,
+  "reason": "not transferred (size)"
+ },
+ {
+  "env": "IoMT-2024",
+  "file": "MQTT Malformed.csv",
+  "bytes": 1257861,
+  "reason": "excluded: no counterpart family"
+ }
+]

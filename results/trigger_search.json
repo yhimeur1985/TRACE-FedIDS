@@ -1,0 +1,206 @@
+{
+ "cic": [
+  [
+   0.0054920719284259015,
+   11,
+   "min",
+   [
+    "Fwd Packet Length Max",
+    "Subflow Bwd Packets",
+    "Idle Mean"
+   ]
+  ],
+  [
+   0.006112144565506245,
+   15,
+   "min",
+   [
+    "Bwd Bytes/Bulk Avg",
+    "Active Mean",
+    "Bwd Packet/Bulk Avg"
+   ]
+  ],
+  [
+   0.010186907609177075,
+   4,
+   "max",
+   [
+    "Bwd Packet/Bulk Avg",
+    "Fwd Act Data Pkts",
+    "Active Std"
+   ]
+  ],
+  [
+   0.010452653025068651,
+   22,
+   "max",
+   [
+    "ACK Flag Count",
+    "Flow IAT Min",
+    "Subflow Fwd Packets"
+   ]
+  ],
+  [
+   0.010629816635663035,
+   5,
+   "min",
+   [
+    "Subflow Bwd Packets",
+    "PSH Flag Count",
+    "Total Fwd Packet"
+   ]
+  ],
+  [
+   0.011515634688634955,
+   34,
+   "min",
+   [
+    "Flow Duration",
+    "Total Bwd packets",
+    "Fwd Packet Length Max"
+   ]
+  ],
+  [
+   0.011692798299229338,
+   21,
+   "max",
+   [
+    "Fwd IAT Total",
+    "Flow Bytes/s",
+    "Subflow Fwd Bytes"
+   ]
+  ],
+  [
+   0.011692798299229338,
+   37,
+   "min",
+   [
+    "PSH Flag Count",
+    "Fwd Packet Length Min",
+    "Bwd Bytes/Bulk Avg"
+   ]
+  ],
+  [
+   0.012047125520418107,
+   17,
+   "max",
+   [
+    "FWD Init Win Bytes",
+    "Total Length of Bwd Packet",
+    "Bwd Packet/Bulk Avg"
+   ]
+  ],
+  [
+   0.015058906900522633,
+   4,
+   "min",
+   [
+    "Bwd Packet/Bulk Avg",
+    "Fwd Act Data Pkts",
+    "Active Std"
+   ]
+  ]
+ ],
+ "edge": [
+  [
+   0.0,
+   1,
+   "min",
+   [
+    "tcp.dstport",
+    "tcp.ack",
+    "tcp.seq"
+   ]
+  ],
+  [
+   0.0,
+   2,
+   "min",
+   [
+    "tcp.ack",
+    "tcp.seq",
+    "tcp.dstport"
+   ]
+  ],
+  [
+   0.0,
+   3,
+   "min",
+   [
+    "tcp.ack",
+    "tcp.seq",
+    "tcp.dstport"
+   ]
+  ],
+  [
+   0.0,
+   5,
+   "min",
+   [
+    "tcp.len",
+    "tcp.dstport",
+    "tcp.ack"
+   ]
+  ],
+  [
+   0.0,
+   6,
+   "min",
+   [
+    "tcp.ack",
+    "tcp.len",
+    "tcp.dstport"
+   ]
+  ],
+  [
+   0.0,
+   8,
+   "min",
+   [
+    "tcp.ack",
+    "tcp.dstport",
+    "tcp.seq"
+   ]
+  ],
+  [
+   0.0,
+   12,
+   "min",
+   [
+    "tcp.ack",
+    "tcp.dstport",
+    "tcp.seq"
+   ]
+  ],
+  [
+   0.0,
+   17,
+   "min",
+   [
+    "tcp.len",
+    "tcp.ack",
+    "tcp.dstport"
+   ]
+  ],
+  [
+   0.0,
+   18,
+   "min",
+   [
+    "tcp.dstport",
+    "tcp.len",
+    "tcp.ack"
+   ]
+  ],
+  [
+   0.0,
+   20,
+   "min",
+   [
+    "tcp.dstport",
+    "tcp.seq",
+    "tcp.ack"
+   ]
+  ]
+ ]
+}
