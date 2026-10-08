@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/*.npz
+!data/cic_prov.npz
+!data/cic_full_prov.npz
+paper_assets/
+logs/
+raw/
